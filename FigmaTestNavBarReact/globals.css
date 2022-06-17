@@ -1,0 +1,18 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@font-face {
+  font-family: "Proxima Nova-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/ProximaNova-Regular") format("opentype");
+}
+@font-face {
+  font-family: "Proxima Nova-SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://fonts.animaapp.com/ProximaNova-SemiBold") format("opentype");
+}
+
+* {
+  box-sizing: border-box;
+}
